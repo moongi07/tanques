@@ -7,11 +7,11 @@ Este proyecto es una aplicación web desarrollada con Spring Boot para gestionar
 ---
 
 ## Entidades del proyecto
-**Precio**
-**Producto**
-**Suministro**
-**Surtidor**
-**SurtidorProducto**
+**Precio** |
+**Producto** |
+**Suministro** |
+**Surtidor** |
+**SurtidorProducto**|
 **Tanque**
 ---
 ## Operaciones CRUD por entidad
